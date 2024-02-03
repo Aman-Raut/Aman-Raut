@@ -1,8 +1,8 @@
-# 💫 About Me:
+ # 💫 About Me:
+ [![](https://visitcount.itsvg.in/api?id=Aman-Raut&icon=7&color=9)](https://visitcount.itsvg.in)
 🔭 I’m currently studying in LPU<br>👯 I’m looking to collaborate on React<br>🤝 Interest in React or python, would be helpful<br>🌱 Learner<br>🦉Night owl<br>🪶Minding my own Coding
 
-
-## 🌐 Socials:
+## 🌐 Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i_amanraut._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amanraut/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@amanraut13) 
 
 # 💻 Tech Stack:
@@ -13,6 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Raut&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Aman-Raut&icon=7&color=9)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
