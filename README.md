@@ -1,5 +1,5 @@
  # 💫 About Me:
- [![](https://visitcount.itsvg.in/api?id=Aman-Raut&icon=7&color=9)](https://visitcount.itsvg.in)
+ [![](https://visitcount.itsvg.in/api?id=Aman-Raut&icon=7&color=9)](https://visitcount.itsvg.in) </br>
 🔭 I’m currently studying in LPU<br>👯 I’m looking to collaborate on React<br>🤝 Interest in React or python, would be helpful<br>🌱 Learner<br>🦉Night owl<br>🪶Minding my own Coding
 
 ## 🌐 Connect with me:
