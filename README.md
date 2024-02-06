@@ -1,6 +1,6 @@
- # 💫 About Me:
+# 💫 Hi,I'm Aman Raut
  [![](https://visitcount.itsvg.in/api?id=Aman-Raut&icon=7&color=9)](https://visitcount.itsvg.in) </br>
-🔭 I’m currently studying in LPU<br>👯 I’m looking to collaborate on React<br>🤝 Interest in React or python, would be helpful<br>🌱 Learner<br>🦉Night owl<br>🪶Minding my own Coding
+🔭 I’m currently studying in LPU<br>👯 I’m looking to collaborate on React<br>🤝 Collab with React or python, would be helpful<br>🦉Night owl<br>🪶Minding my own Coding<br>🔗Contact me - amanraut13@gmail.com
 
 ## 🌐 Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i_amanraut._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amanraut/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@amanraut13) 
